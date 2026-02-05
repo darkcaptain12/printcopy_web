@@ -8,3 +8,4 @@
 [2026-02-05 13:26:27] Service: Send exception: Class "PHPMailer\PHPMailer\PHPMailer" not found
 [2026-02-05 13:27:33] Service: Send exception: Class "PHPMailer\PHPMailer\PHPMailer" not found
 [2026-02-05 13:27:45] Service: Send exception: Class "PHPMailer\PHPMailer\PHPMailer" not found
+[2026-02-05 13:29:59] Service: DB Config Error: SQLSTATE[HY000] [2002] Operation not permitted
