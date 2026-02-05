@@ -1,0 +1,10 @@
+2026-02-04 11:58:41 - SMTP not configured in settings.
+2026-02-04 12:39:22 - Mailer Error: SMTP Error: Could not authenticate.
+2026-02-04 12:45:12 - Mailer Error: SMTP Error: Could not authenticate.
+2026-02-04 12:48:21 - Mailer Error: SMTP Error: Could not authenticate.
+2026-02-04 12:57:26 - Mailer Error: SMTP Error: Could not authenticate.
+[2026-02-04 14:00:15] SUCCESS: Test mail sent to krgutax@gmail.com
+[2026-02-04 14:00:48] SUCCESS: Test mail sent to krgutax@gmail.com
+[2026-02-05 13:26:27] Service: Send exception: Class "PHPMailer\PHPMailer\PHPMailer" not found
+[2026-02-05 13:27:33] Service: Send exception: Class "PHPMailer\PHPMailer\PHPMailer" not found
+[2026-02-05 13:27:45] Service: Send exception: Class "PHPMailer\PHPMailer\PHPMailer" not found

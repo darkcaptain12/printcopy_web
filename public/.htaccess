@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Redirect /paytr/callback to /paytr/callback.php
+RewriteRule ^paytr/callback$ paytr/callback.php [L]
+
+# General Routing
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
